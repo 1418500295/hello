@@ -2,13 +2,7 @@ package hello
 
 import "fmt"
 
-func a() {
+func n() {
 	fmt.Println("aaa")
-}
-
-func b() {
-	fmt.Println("ccc")
-}
-func c() {
-	fmt.Println("jgdkfhg")
+	fmt.Println("fghkl;gfh")
 }

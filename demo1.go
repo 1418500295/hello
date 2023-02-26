@@ -9,3 +9,6 @@ func a() {
 func b() {
 	fmt.Println("ccc")
 }
+func c() {
+	fmt.Println("jgdkfhg")
+}

@@ -2,8 +2,9 @@ package hello
 
 import "fmt"
 
-func a() {
+func d() {
 	fmt.Println(333)
+	fmt.Println(222)
 
 }
 

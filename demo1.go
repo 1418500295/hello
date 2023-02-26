@@ -7,6 +7,6 @@ func y() {
 
 }
 
-func hello1() {
+func c() {
 	fmt.Println(555)
 }

@@ -7,6 +7,6 @@ func y() {
 
 }
 
-func c() {
-	return
+func hello1() {
+	fmt.Println(555)
 }

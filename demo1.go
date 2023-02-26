@@ -2,11 +2,10 @@ package hello
 
 import "fmt"
 
-func y() {
-	fmt.Println(999)
-
+func a() {
+	fmt.Println("aaa")
 }
 
-func c() {
-	fmt.Println(555)
+func b() {
+	fmt.Println("ccc")
 }

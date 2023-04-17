@@ -3,5 +3,7 @@ package hello
 import "fmt"
 
 func d() {
-	fmt.Println(111)
+
+	fmt.Println(2222)
+
 }

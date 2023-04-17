@@ -4,6 +4,6 @@ import "fmt"
 
 func d() {
 
-	fmt.Println(2222)
+	fmt.Println(777)
 
 }
